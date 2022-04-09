@@ -7,7 +7,7 @@ Data Cleaning
 
 https://www.tableau.com/learn/articles/what-is-data-cleaning
  * Missing Values
- * 
+ * Remove outliers???
 
 
 EDA
