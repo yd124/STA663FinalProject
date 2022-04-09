@@ -1,8 +1,10 @@
 # STA663FinalProject
 
-Plan:
+## PLAN:
 
 Data Cleaning
+
+
 EDA
 
 Three Models
