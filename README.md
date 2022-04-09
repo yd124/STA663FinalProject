@@ -7,6 +7,8 @@ Data Cleaning
 
 
 EDA
+https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook
+
 
 Three Models
   * ??
