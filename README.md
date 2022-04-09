@@ -5,8 +5,13 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 Data Cleaning
 
+https://www.tableau.com/learn/articles/what-is-data-cleaning
+ * Missing Values
+ * 
+
 
 EDA
+
 https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook
 
 
