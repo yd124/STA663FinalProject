@@ -13,7 +13,7 @@ https://www.tableau.com/learn/articles/what-is-data-cleaning
 EDA
 
 https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook
-
+https://www.kaggle.com/code/dgawlik/house-prices-eda/notebook
 
 Three Models
   * ??
