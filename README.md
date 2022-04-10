@@ -14,9 +14,15 @@ EDA
 
 https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook
 https://www.kaggle.com/code/dgawlik/house-prices-eda/notebook
-* target : 
-   * reduce skewness:https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45
-* 
+- Numerical Data
+* remove imbalanced data
+* reduce skewness:
+  * https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45
+  * boxcox https://www.geeksforgeeks.org/box-cox-transformation-using-python/
+  * left-skewed: http://seismo.berkeley.edu/~kirchner/eps_120/Toolkits/Toolkit_03.pdf
+* Correlations 
+
+- Categorical data 
 
 Three Models
   * ??
