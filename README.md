@@ -14,7 +14,8 @@ EDA
 
 https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python/notebook
 https://www.kaggle.com/code/dgawlik/house-prices-eda/notebook
-* target : log?
+* target : 
+   * reduce skewness:https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45
 * 
 
 Three Models
