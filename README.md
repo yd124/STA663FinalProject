@@ -25,8 +25,9 @@ https://www.kaggle.com/code/vipin20/house-prices-eda-feature-engineering#EDA
   * left-skewed: http://seismo.berkeley.edu/~kirchner/eps_120/Toolkits/Toolkit_03.pdf
 
 #### Categorical data 
+* choose ones which has obvious relationship with target in boxplot
 * Boxplot to represent the relationship between target and categorical predictors:https://www.kaggle.com/code/datafan07/beginner-eda-with-feature-eng-and-blending-models
-
+* Use one-hot encoding to transform categorical data,
 #### Correlations:
 * After transforming categorical into numerical values, we calculate the correlations matrix.
 https://www.kaggle.com/code/vipin20/house-prices-eda-feature-engineering#EDA
